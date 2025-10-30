@@ -41,7 +41,7 @@ house price prediction project Colab.pdf — Reference output
 
 ## 👩‍💻 Author  
 **Vasundara Bandi**  
-B.Tech CSE (AI & DS) | KL University  
+B.Tech (AI & DS) | KL University  
 [LinkedIn](https://www.linkedin.com/in/vasundarabandi/)
 
 
@@ -55,3 +55,4 @@ B.Tech CSE (AI & DS) | KL University
 
 
 Would you like me to also give you the perfect content for your `requirements.txt` file next?
+
