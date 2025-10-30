@@ -39,11 +39,11 @@ output_house_price_predictions.csv — Model predictions
 
 house price prediction project Colab.pdf — Reference output
 
-👩‍💻 Author
-Vasundara Bandi
+## 👩‍💻 Author  
+**Vasundara Bandi**  
+B.Tech CSE (AI & DS) | KL University  
+[LinkedIn](https://www.linkedin.com/in/vasundarabandi/)
 
-pgsql
-Copy code
 
 ---
 
@@ -52,5 +52,6 @@ Copy code
 2. Copy all the text above exactly as it is.  
 3. Save the file with the name `README.md` (make sure it’s not `README.md.txt`).  
 4. Keep it in the same folder as your project before uploading to GitHub.  
+
 
 Would you like me to also give you the perfect content for your `requirements.txt` file next?
